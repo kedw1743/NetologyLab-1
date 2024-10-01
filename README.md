@@ -1,2 +1,2 @@
-# NEtologyLab#1
+# NetologyLab#1
 Scripts in the dev branch
